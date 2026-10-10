@@ -1,0 +1,9 @@
+Sample,Actual Label,Predicted Label,Confidence,Hypothesis
+1,Beagle,Boxer,0.858285665512085,Gambar hitam-putih dan sudut samping menyamarkan ciri khas Beagle.
+2,British Shorthair,Bombay,0.7453690767288208,Bulu gelap dan pencahayaan rendah membuat wajah mirip Bombay.
+3,Bengal,Abyssinian,0.547354519367218,Sudut samping membuat pola bulu khas Bengal kurang terlihat.
+4,Abyssinian,British Shorthair,0.6653921008110046,Kemiripan wajah dan telinga panjang antara kedua ras.
+5,Bengal,Abyssinian,0.9835416674613953,Pola bulu kurang jelas akibat sudut dan kualitas gambar.
+6,British Shorthair,Bombay,0.5805708169937134,Posisi tubuh terbalik membuat ciri visual ras sulit dikenali.
+7,Bengal,Abyssinian,0.5397123694419861,Pola bulu kurang terlihat sehingga bentuk wajah lebih dominan.
+8,English Cocker Spaniel,English Setter,0.5008316040039062,Sebagian tubuh tersembunyi di tempat tidur kucing.
